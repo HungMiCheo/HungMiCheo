@@ -42,11 +42,11 @@
 ### 📺 Video YouTube
 
 <!-- YOUTUBE:START -->
-- [Cách tạo Server GTAV Roleplay [ESX]](https://www.youtube.com/watch?v=_P6vb90cP-M&t=144s)
-- [Cách tạo server GTAV Roleplay [QBCore]](https://www.youtube.com/watch?v=CWxjHJgTOOg&t=1s)
-- [[QBCore] [Free] Nghề Chăn Nuôi Gia Súc](https://www.youtube.com/watch?v=rVWxwtKkCeI&t=15s)
-- [[QBCore] [Free] Nghề Hái Cam](https://www.youtube.com/watch?v=mAGyWx9k2mo)
-- [[QBCore] [Free] Nghề Giao Pizza](https://www.youtube.com/watch?v=dGcEPM2qNSo)
+- [STACKr News Weekly: Top Paying Tech Jobs in 2022, Visual Studio Code 2022, Code a 2D Game](https://www.youtube.com/watch?v=fnvYfRcfRIU)
+- [10 Life-Saving JavaScript One-Liners 🔥 CODE LIKE A PRO 2022](https://www.youtube.com/watch?v=tfdD9y6AMiE)
+- [How To List &amp; Reveal An ENTIRE NFT Collection &lpar;10,000+&rpar; Without Coding Knowledge on OpenSea](https://www.youtube.com/watch?v=Iy1n_LxUwZs)
+- [STACKr News Weekly: Quit Google, GoLang Course, Rewind 2021: Coding Edition](https://www.youtube.com/watch?v=KBSRZh8HQ4M)
+- [Visual Studio Code 2022 | Web Dev Setup | Top Extensions, Themes, Settings, Tips &amp; Tricks](https://www.youtube.com/watch?v=fJEbVCrEMSE)
 <!-- YOUTUBE:END -->
 
 ➡️ [Xem thêm](https://www.youtube.com/channel/UCTWcVDAN74G50tkF1v9Gl9A)
