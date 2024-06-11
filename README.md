@@ -10,9 +10,9 @@
 
 ### Liên hệ:
 
-[<img align="left" alt="HungMiCheo | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/facebook.svg" />](https://www.facebook.com/micheohung)
-[<img align="left" alt="HungMiCheo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.com/invite/G5DMDEwAAY)
-[<img align="left" alt="HungMiCheo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCTWcVDAN74G50tkF1v9Gl9A)
+[<img align="left" alt="HungMiCheo | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/facebook.svg" />](https://www.facebook.com/micheohung)
+[<img align="left" alt="HungMiCheo | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.com/invite/G5DMDEwAAY)
+[<img align="left" alt="HungMiCheo | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCTWcVDAN74G50tkF1v9Gl9A)
 
 <br />
 
