@@ -1,8 +1,8 @@
-### Xin chào, Tôi tên Hưng MiCheo 👋 
+### Xin chào, Tôi tên TroxJT 👋 
 
 ## Tên là Developer and Designer
 
-- 💼 Tôi là một thành viên của RPK Team [Discord][discord]
+- 💼 Tôi là một thành viên của VNU Team [Discord](https://discord.com/invite/G5DMDEwAAY)
 - 🐌 Tôi cung cấp các dịch vụ FiveM
 - 📚 Tôi hiện đang học mọi thứ 🤣
 - 👯 Tôi đang muốn cộng tác với những người sáng tạo nội dung khác
@@ -10,9 +10,9 @@
 
 ### Liên hệ:
 
-[<img align="left" alt="HungMiCheo | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="HungMiCheo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="HungMiCheo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="HungMiCheo | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/facebook.svg" />][Facebook](https://www.facebook.com/micheohung)
+[<img align="left" alt="HungMiCheo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord](https://discord.com/invite/G5DMDEwAAY)
+[<img align="left" alt="HungMiCheo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][Youtube](https://www.youtube.com/channel/UCTWcVDAN74G50tkF1v9Gl9A)
 
 <br />
 
@@ -60,7 +60,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hungmicheo&" alt="hungmicheo" /></p>
 
 
-[discord]: https://discord.com/invite/Ec2N3dWQpM
-[facebook]: https://www.facebook.com/micheohung/
-[youtube]: https://www.youtube.com/channel/UCTWcVDAN74G50tkF1v9Gl9A
-[instagram]: https://www.instagram.com/run1st.ltd/
+[Discord](https://discord.com/invite/G5DMDEwAAY)
+[Facebook](https://www.facebook.com/micheohung)
+[Youtube](https://www.youtube.com/channel/UCTWcVDAN74G50tkF1v9Gl9A)
